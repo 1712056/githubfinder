@@ -1,0 +1,24 @@
+.cardUser{
+    width: 100%;
+    margin-top: 16px;
+    padding: 16px;
+    border: 1px dotted #ccc;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card_left{
+    text-align: center;
+    width: 100%;
+}
+.card_right{
+    text-align: left;
+    width: 100%;
+}
+.card_left .avatar{
+    border-radius: 50%;
+    width: 25%;
+}
+.card_right div{
+    display: flex;
+}

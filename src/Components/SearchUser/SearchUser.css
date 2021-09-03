@@ -1,0 +1,10 @@
+
+.search .search_input{
+    width: 100%;
+    margin: 16px auto;
+}
+.search button {
+    width: 100%;
+    background-color: var(--dark-color);
+    margin-left: 0;
+}

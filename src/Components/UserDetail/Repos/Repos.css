@@ -1,0 +1,14 @@
+.repo{
+    width: 100%;
+    border: 1px dotted #ccc;
+    padding: 16px;
+}
+.repo .description{
+    word-break: break-all;
+    display:-webkit-box;
+    -webkit-line-clamp:3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+}

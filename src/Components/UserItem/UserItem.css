@@ -1,0 +1,16 @@
+.user{
+    text-align: center;
+    border: 1px dotted #cccccc;
+    margin: 16px 0;
+}
+
+.user .avatar img{
+    margin: 16px 0;
+    border-radius:50%;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+}
+.user .btn {
+    margin-bottom: 16px;
+}
